@@ -1,6 +1,6 @@
 # Cute Dude Skin Pack
-A mod that uses ALL of my OCs as reskins! WOWIE!
-For more info, check out the [wiki page](https://cute-dude.fandom.com/wiki/Cute_Dude_Skin_Pack).
+* A mod that uses ALL of my OCs as reskins! WOWIE!
+* For more info, check out the [wiki page](https://cute-dude.fandom.com/wiki/Cute_Dude_Skin_Pack).
 
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
